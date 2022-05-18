@@ -1,0 +1,6 @@
+C:\Users\NakamaElLocoManXD\source\repos\Pilas y colas Ejemplo\Pilas con SHARP PAA\bin\Debug\Pilas con SHARP PAA.exe.config
+C:\Users\NakamaElLocoManXD\source\repos\Pilas y colas Ejemplo\Pilas con SHARP PAA\bin\Debug\Pilas con SHARP PAA.exe
+C:\Users\NakamaElLocoManXD\source\repos\Pilas y colas Ejemplo\Pilas con SHARP PAA\bin\Debug\Pilas con SHARP PAA.pdb
+C:\Users\NakamaElLocoManXD\source\repos\Pilas y colas Ejemplo\Pilas con SHARP PAA\obj\Debug\Pilas con SHARP PAA.csproj.CoreCompileInputs.cache
+C:\Users\NakamaElLocoManXD\source\repos\Pilas y colas Ejemplo\Pilas con SHARP PAA\obj\Debug\Pilas con SHARP PAA.exe
+C:\Users\NakamaElLocoManXD\source\repos\Pilas y colas Ejemplo\Pilas con SHARP PAA\obj\Debug\Pilas con SHARP PAA.pdb
